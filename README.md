@@ -1,8 +1,6 @@
-# Implementing-and-Studying-Firewall-Technologies-for-Blocking-Malicious-Traffic
+# Implementing and Studying Firewall Technologies for Blocking Malicious Traffic
 “Implementing and Studying Firewall Technologies for Blocking Malicious Traffic”  Modern networks are increasingly targeted by malicious traffic, including adware, spyware, phishing, and unauthorized access attempts. Traditional firewalls, with their limited rule-based filtering, often fail to detect and block these sophisticated threats.
 
-
-# Implementing and Studying Firewall Technologies for Blocking Malicious Traffic
 
 This project demonstrates a layered network defense using:
 - Snort (IDS/IPS)
