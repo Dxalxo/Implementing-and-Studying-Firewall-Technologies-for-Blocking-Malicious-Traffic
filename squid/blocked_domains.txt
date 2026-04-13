@@ -1,0 +1,4 @@
+doubleclick.net
+adservice.google.com
+malicious-example.com
+ads.example.net
